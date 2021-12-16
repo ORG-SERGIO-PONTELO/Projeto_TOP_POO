@@ -1,2 +1,2 @@
 # Projeto_TOP_POO
-Projeto sobre programaçao orientada a objeto.
+Projeto sobre programaçao orientada objeto.
